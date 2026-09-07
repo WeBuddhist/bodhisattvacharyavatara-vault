@@ -1,11 +1,10 @@
 ---
-
 title: A Guide to the Bodhisattva Way of Life
-author: wallace, b. alan[bdr:P9927]
-date: 2009
+author: wallace, b. alan
+date: "2009"
 language: English
 file_type: translation
-lang_tag: bo
+lang_tag: en
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/BCAV08_SH_sk.md
 translation_basis: 
@@ -14,9 +13,9 @@ source: https://webuddhist.com/
 license: public
 category_id: JD5ULLPAV1cxg7RSb7L3q
 bdrc_work_id: 
-text_id: 
-edition_id: 
-toc_id: 
+text_id: HgUzrXDKDN5N8vzHdkgVe
+edition_id: ru8JW2ztLc2dNEEibTXra
+toc_id: k3573OsFt9xKk1919Fd2r
 ---
 
 # A Guide to the Bodhisattva Way of Life ^0
@@ -295,7 +294,7 @@ Whatever offense I have committed, out of disrespect, with my body, speech, and 
 
 And whatever terrible vices I, a sinner, defiled with many faults, have done, O Guides, I confess them all. ^2-31
 
-[Missing Translation verse 2.32]
+[Missing Translation verse 2.32] ^2-32
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^2-33]]
 
@@ -2447,7 +2446,7 @@ All sufferings are without an owner, because they are not different. They should
 
 Why should suffering be prevented? Because everyone agrees. If it must be warded off, then all of it must be warded off; and if not, then this goes for oneself as it does for everyone else. ^8-103
 
-[Qualm:] Much suffering comes from compassion, so why should one force it to arise?
+[Qualm:] Much suffering comes from compassion, so why should one force it to arise? ^8-104q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-104]]
 
@@ -2809,7 +2808,7 @@ Even the objects of direct perception, such as form and the like, are establishe
 
 The Protector taught things in order to bring people to understanding. ^9-7
 
-[Qualm:] If these things are not ultimately, but only conventionally, momentary, this is inconsistent. ^9-7.1
+[Qualm:] If these things are not ultimately, but only conventionally, momentary, this is inconsistent. ^9-7a
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-8]]
 
@@ -2823,13 +2822,13 @@ The Protector taught things in order to bring people to understanding. ^9-7
 
 [Mādhyamika:] Even an illusion lasts for as long as the collection of its conditions. Why should a sentient being truly exist merely because its continuum lasts a long time? ^9-10
 
-[Yogācārin:] If consciousness does not exist, there is no sin in killing an illusory person.
+[Yogācārin:] If consciousness does not exist, there is no sin in killing an illusory person. ^9-11q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-11]]
 
 [Mādhyamika:] On the contrary, when one is endowed with the illusion of consciousness, vice and merit do arise. ^9-11
 
-[Yogācārin:] An illusory mind is not possible, since mantras and the like are unable to produce it.
+[Yogācārin:] An illusory mind is not possible, since mantras and the like are unable to produce it. ^9-12q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-12]]
 
@@ -2851,13 +2850,13 @@ The Protector taught things in order to bring people to understanding. ^9-7
 
 [Mādhyamika:] If for you an illusion itself does not exist, what is apprehended? Even if it is an aspect of the mind itself, in reality it exists as something different. ^9-16
 
-[Yogācārin:] If the mind itself is an illusion, then what is perceived by what?
+[Yogācārin:] If the mind itself is an illusion, then what is perceived by what? ^9-17q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-17]]
 
 [Mādhyamika:] The Protector of the World stated that the mind does not perceive the mind. Just as a sword cannot cut itself, so it is with the mind. ^9-17
 
-[Yogācārin:] It illuminates itself, as does a lamp.
+[Yogācārin:] It illuminates itself, as does a lamp. ^9-18q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-18]]
 
@@ -2879,13 +2878,13 @@ The Protector taught things in order to bring people to understanding. ^9-7
 
 [Mādhyamika:] If no one perceives whether the mind is luminous or not, then there is no point in discussing it, like the beauty of a barren woman's daughter. ^9-22
 
-[Yogācārin:] If self-cognizing awareness does not exist, how is consciousness recalled?
+[Yogācārin:] If self-cognizing awareness does not exist, how is consciousness recalled? ^9-23q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-23]]
 
 [Mādhyamika:] Recollection comes from its relation to something else that was experienced, like a rat's poison. ^9-23
 
-[Yogācārin:] It illuminates itself, because the mind endowed with other conditions perceives.
+[Yogācārin:] It illuminates itself, because the mind endowed with other conditions perceives. ^9-24q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-24]]
 
@@ -2899,7 +2898,7 @@ The manner in which something is seen, heard, or cognized is not what is refuted
 
 If you fancy that an illusion is neither different from the mind nor non-different, then if it is a really existing thing, how can it not be different? If it is not different, then it does not really exist. ^9-26
 
-Just as an illusion can be seen even though it does not truly exist, so it is with the observer, the mind.
+Just as an illusion can be seen even though it does not truly exist, so it is with the observer, the mind. ^9-27q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-27]]
 
@@ -2945,7 +2944,7 @@ When a charmer against poisons dies after completing a pillar, that pillar neutr
 
 Likewise, the pillar of the Jina, completed in accordance with the Bodhisattva way of life, accomplishes all tasks, even when the Bodhisattva has passed into nirvana. ^9-37
 
-[Hīnayānist:] How could worship offered to something that has no consciousness be fruitful?
+[Hīnayānist:] How could worship offered to something that has no consciousness be fruitful? ^9-38q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-38]]
 
@@ -2955,7 +2954,7 @@ Likewise, the pillar of the Jina, completed in accordance with the Bodhisattva w
 
 According to the scriptures, effects of worship do exist, whether conventionally or ultimately, in the same way that worship offered to the true Buddha is said to be fruitful. ^9-39
 
-[Hīnayānist:] Liberation comes from understanding the Four Noble Truths, so what is the point of perceiving emptiness?
+[Hīnayānist:] Liberation comes from understanding the Four Noble Truths, so what is the point of perceiving emptiness? ^9-40q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-40]]
 
@@ -2963,7 +2962,7 @@ According to the scriptures, effects of worship do exist, whether conventionally
 
 [Hīnayānist:] The Mahāyāna is certainly not authenticated.
 [Mādhyamika:] How is your scripture authenticated?
-[Hīnayānist:] Because it is authenticated by both of us.
+[Hīnayānist:] Because it is authenticated by both of us. ^9-41q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-41]]
 
@@ -3049,7 +3048,7 @@ If the awareness of sound were I, then sound would always be apprehended. But wi
 
 If that which is not cognizant were awareness, a piece of wood would be awareness. Therefore, it is certain there is no awareness in the absence of its object. ^9-61
 
-Why does that which cognizes form not hear it as well?
+Why does that which cognizes form not hear it as well? ^9-62q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-62]]
 
@@ -3103,13 +3102,13 @@ The past or future mind is not "I," since it does not exist. If the present mind
 
 Just as the trunk of a plantain tree is nothing when cut into pieces, in the same way, the "I" is non-existent when sought analytically. ^9-74
 
-[Qualm:] If no sentient being exists, for whom is there compassion?
+[Qualm:] If no sentient being exists, for whom is there compassion? ^9-75q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-75]]
 
 [Mādhyamika:] For one who is imagined through delusion, which is accepted for the sake of the task. ^9-75
 
-[Qualm:] If there is no sentient being, whose is the task?
+[Qualm:] If there is no sentient being, whose is the task? ^9-76q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-76]]
 
@@ -3167,7 +3166,7 @@ If suffering truly exists, why does it not oppress the joyful? If delicacies and
 
 If it is not experienced because it is overpowered by something more intense, how can that which is not of the nature of experience be a feeling? ^9-89
 
-[Objection:] Surely there is suffering in its subtle state while its gross state is removed.
+[Objection:] Surely there is suffering in its subtle state while its gross state is removed. ^9-90q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-90]]
 
@@ -3261,7 +3260,7 @@ A person for whom these two are truly existent is in an extremely shaky position
 
 If cognition exists because of the power of the object of cognition, how does one arrive at the true existence of the object of cognition? If their existence is due to their mutual power, neither can exist. ^9-112
 
-[Objection:] If there is no father without a son, how can there be a son?
+[Objection:] If there is no father without a son, how can there be a son? ^9-113q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-113]]
 
@@ -3281,13 +3280,13 @@ People observe every cause through direct perception, since the components of a 
 
 [Qualm:] What makes the variety of causes?
 [Mādhyamika:] A preceding variety of causes.
-[Qualm:] How can a cause give an effect?
+[Qualm:] How can a cause give an effect? ^9-117q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-117]]
 
 [Mādhyamika:] Because of the power of preceding causes. ^9-117
 
-[Nyāya-Vaiśeṣika:] Īśvara is the cause of the world.
+[Nyāya-Vaiśeṣika:] Īśvara is the cause of the world. ^9-118q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-118]]
 
@@ -3349,7 +3348,7 @@ Happiness and other feelings may be due to things such as a cloth, but in their 
 
 If the manifestation of happiness truly exists, why is the feeling not apprehended? If you say that it becomes subtle, how can it be gross and subtle? ^9-132
 
-[Objection:] It is subtle upon leaving its gross state. Its grossness and subtlety are impermanent.
+[Objection:] It is subtle upon leaving its gross state. Its grossness and subtlety are impermanent. ^9-133q
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-133]]
 

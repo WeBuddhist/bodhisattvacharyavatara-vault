@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "source": "C:\\Users\\geshe lobzang tseten\\repos\\bodhisattvacharyavatara-rails\\1-SOURCES\\Translations\\en-Wallace.md",
+  "validated_at": "2026-09-06T15:26:16.282261+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/BCAV08_SH_sk.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "toc: 12 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "rdflib not installed -- run: pip install rdflib",
+    "person not in persons API -- found via BDRC (P9927)",
+    "multiple BDRC persons matched 'b. alan' -- using first (P9927)",
+    "rdflib not installed -- run: pip install rdflib",
+    "person not in persons API -- found via BDRC (P9927)"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": "2009",
+    "title": {
+      "en": "A Guide to the Bodhisattva Way of Life"
+    },
+    "alt_titles": null,
+    "language": "en",
+    "commentary_of": null,
+    "translation_of": "sADPH5uSrp0XOntZmPvSJ",
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P9927"
+      },
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P9927"
+      }
+    ],
+    "tag_ids": null
+  }
+}

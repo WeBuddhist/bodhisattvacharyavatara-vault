@@ -1,0 +1,67 @@
+{
+  "status": "error",
+  "source": "C:\\Users\\geshe lobzang tseten\\repos\\bodhisattvacharyavatara-rails\\1-SOURCES\\Translations\\en-Wallace.md",
+  "validated_at": "2026-09-06T15:21:38.775159+00:00",
+  "error_count": 22,
+  "errors": [
+    "date: expected string (>=1 char) or null",
+    "segment 139: missing reference (^chapter-index)",
+    "segment 1215: missing reference (^chapter-index)",
+    "segment 1396: missing reference (^chapter-index)",
+    "segment 1403: missing reference (^chapter-index)",
+    "segment 1406: missing reference (^chapter-index)",
+    "segment 1417: missing reference (^chapter-index)",
+    "segment 1420: missing reference (^chapter-index)",
+    "segment 1431: missing reference (^chapter-index)",
+    "segment 1434: missing reference (^chapter-index)",
+    "segment 1441: missing reference (^chapter-index)",
+    "segment 1464: missing reference (^chapter-index)",
+    "segment 1469: missing reference (^chapter-index)",
+    "segment 1472: missing reference (^chapter-index)",
+    "segment 1515: missing reference (^chapter-index)",
+    "segment 1542: missing reference (^chapter-index)",
+    "segment 1545: missing reference (^chapter-index)",
+    "segment 1574: missing reference (^chapter-index)",
+    "segment 1621: missing reference (^chapter-index)",
+    "segment 1630: missing reference (^chapter-index)",
+    "segment 1633: missing reference (^chapter-index)",
+    "segment 1664: missing reference (^chapter-index)"
+  ],
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/BCAV08_SH_sk.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "toc: 12 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "rdflib not installed -- run: pip install rdflib",
+    "person not in persons API -- found via BDRC (P9927)",
+    "no Person found in BDRC for 'b. alan[bdr:P9927]'",
+    "author 'b. alan[bdr:P9927]' not found (no id) — skipped"
+  ],
+  "resolved": {
+    "bdrc": null,
+    "wiki": null,
+    "date": 2009,
+    "title": {
+      "bo": "A Guide to the Bodhisattva Way of Life"
+    },
+    "alt_titles": null,
+    "language": "en",
+    "commentary_of": null,
+    "translation_of": "sADPH5uSrp0XOntZmPvSJ",
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P9927"
+      }
+    ],
+    "tag_ids": null
+  }
+}
