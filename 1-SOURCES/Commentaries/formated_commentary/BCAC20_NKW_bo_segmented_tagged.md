@@ -1,4 +1,4 @@
-Properties
+---
 book_id: BCAC20_NKW_bo
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་འགྲེལ་པ།
 title_in_english: Commentary on Entering the Bodhisattva's Way of Life
@@ -8,15 +8,15 @@ file_type: commentary
 language: Tibetan
 lang_tag: bo
 source_description: Commentary to facilitate easy entry for beginners into the Bodhicaryāvatāra, composed by Khenpo Ngakwang Kunga Wangchuk of Dzongsar Shedra, India.
-category_id: 
+category_id:
 license: public
-source: https://webuddhist.com/
-root-text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
-bdrc_work_id: 
-source: https://webuddhist.com/
-text_id: 
-edition_id: 
-toc_id: 
+source: "https://webuddhist.com/"
+root-text: "1-SOURCES\\Translations\\bo-བློ་ལྡན་ཤེས་རབ།.md"
+bdrc_work_id:
+text_id:
+edition_id:
+toc_id:
+---
 
 # ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་འགྲེལ་པ་བཞུགས་སོ། ། ^0
 
